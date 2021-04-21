@@ -5,7 +5,7 @@ with open("README.md") as f:
     long_description = f.read()
 
 requirements = [
-    "tortoise-orm>=0.16.14",
+    "tortoise-orm>=0.17.2",
     "pypika-gis>=1.3.0",
     "shapely>=1.7.1",
     "geojson>=2.5.0",
